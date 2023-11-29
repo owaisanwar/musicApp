@@ -46,7 +46,7 @@ function createPlayer(songLink) {
     // playerDiv.innerHTML = `<iframe src="http://www.youtube.com/embed/W7qWa52k-nE"width="560" height="315" frameborder="0" allowfullscreen></iframe>`
 
     playerDiv.innerHTML = `
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CKZvWhCqx1s?si=OmDfmJXj-Lz1vUMt?autoplay=1" title="YouTube video player" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CKZvWhCqx1s?si=OmDfmJXj-Lz1vUMt?autoplay=1" title="YouTube video player" frameborder="0"  allow="autoplay" allowfullscreen></iframe>
     `
     // playerDiv.innerHTML = `
     // <iframe width="560" height="315" src="https://www.youtube.com/embed/gL0osl_vcjE?autoplay=1" title="YouTube video player" frameborder="0" allow="autoplay" allowfullscreen></iframe>
